@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Gaegu&family=Kablammo&family=Mansalva&family=Satisfy&display=swap');
+@import "tailwindcss";
+
+.gaegu {
+    font-family: "Gaegu", sans-serif;
+}
+
+.comfortaa {
+    font-family: "Comfortaa", sans-serif;
+}
+
+.mansalva {
+    font-family: "Mansalva", sans-serif;
+}
+
+.satisfy {
+    font-family: "Satisfy", cursive;
+}
+
+.kablammo {
+    font-family: "Kablammo", system-ui;
+    font-size: 100px;
+}
